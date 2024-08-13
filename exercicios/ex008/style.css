@@ -1,0 +1,14 @@
+/* Associação pelo NOME DO ELEMENTO */
+h1{
+    color:red;
+}
+
+/* Associação pela CLASSE DO ELEMENTO */
+#tit_1 {
+    font - size: 40px;
+}
+
+/* Associação pela CLASSE DO ELEMENTO */
+.noticias {
+    font-family: Arial;
+}
